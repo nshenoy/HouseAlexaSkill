@@ -244,3 +244,4 @@ ModelManifest.xml
 
 # config
 **/config.h
+**/appSettings.json
