@@ -243,4 +243,4 @@ ModelManifest.xml
 *.pubxml
 
 # config
-src/Arduino/garage-doors/config.h
+**/config.h
