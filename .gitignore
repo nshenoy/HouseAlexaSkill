@@ -244,6 +244,7 @@ ModelManifest.xml
 
 # config
 **/config.h
-#**/appSettings.json
+**/appSettings.json
 **/appSettings.prod.json
 **/PublishProfiles/**
+**/published-app/**
