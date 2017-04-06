@@ -1,0 +1,20 @@
+﻿GarageDoorsStatusIntent the garage doors are open
+GarageDoorsStatusIntent the garage doors are opened
+GarageDoorsStatusIntent the garage door is open
+GarageDoorsStatusIntent the garage door is opened
+GarageDoorsStatusIntent the garage doors are closed
+GarageDoorsStatusIntent the garage door is closed
+GarageDoorsStatusIntent the garage is open
+GarageDoorsStatusIntent the garage is opened
+GarageDoorsStatusIntent the garage is closed
+
+GarageDoorOpenCloseIntent {DoorAction} the {DoorIdentifier} door
+
+HelloIntent say hi to {Name}
+HelloIntent say hello to {Name}
+HelloIntent say hi to the {Name}
+HelloIntent say hello to the {Name}
+
+AMAZON.HelpIntent assistance needed please
+AMAZON.HelpIntent i need assistance
+

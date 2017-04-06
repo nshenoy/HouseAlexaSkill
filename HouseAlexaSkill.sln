@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F4D7D36E-103F-4059-9DA8-700A8F8B0F08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EA8BA2D3-922F-4EE3-A3EC-DDD5C497F773}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseAlexaSkill", "src\HouseAlexaSkill\HouseAlexaSkill.csproj", "{4990005D-FDD0-40A7-AAD1-21BE4F705EAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4990005D-FDD0-40A7-AAD1-21BE4F705EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4990005D-FDD0-40A7-AAD1-21BE4F705EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4990005D-FDD0-40A7-AAD1-21BE4F705EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4990005D-FDD0-40A7-AAD1-21BE4F705EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4990005D-FDD0-40A7-AAD1-21BE4F705EAB} = {F4D7D36E-103F-4059-9DA8-700A8F8B0F08}
+	EndGlobalSection
+EndGlobal

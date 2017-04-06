@@ -1,0 +1,32 @@
+﻿{
+  "intents": [
+    {
+      "intent": "HelloIntent",
+      "slots": [
+        {
+          "name": "Neme",
+          "type": "NAME"
+        }
+      ]
+    },
+    {
+      "intent": "GarageDoorsStatusIntent"
+    },
+    {
+      "intent": "GarageDoorOpenCloseIntent",
+      "slots": [
+        {
+          "name": "DoorAction",
+          "type": "GARAGE_DOORACTION"
+        },
+        {
+          "name": "DoorIdentifier",
+          "type": "GARAGE_DOORIDENTIFIER"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
