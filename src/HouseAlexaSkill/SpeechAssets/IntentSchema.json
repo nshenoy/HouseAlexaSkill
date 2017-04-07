@@ -1,10 +1,10 @@
-﻿{
+{
   "intents": [
     {
       "intent": "HelloIntent",
       "slots": [
         {
-          "name": "Neme",
+          "name": "Name",
           "type": "NAME"
         }
       ]
